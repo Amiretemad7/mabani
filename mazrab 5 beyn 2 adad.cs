@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace مضارب_5_بین_دو_عدد
+namespace Mazrab5Beyn2Adad
 {
     internal class Program
     {
