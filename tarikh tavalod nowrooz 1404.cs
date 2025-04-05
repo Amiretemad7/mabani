@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace تاریخ_تولد_یک_شخص_در_نوروز_1404
+namespace Tarik tavalod nowrooz 1404
 {
     internal class Program
     {
