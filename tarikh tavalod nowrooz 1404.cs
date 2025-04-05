@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tarik tavalod nowrooz 1404
+namespace TarikhTavalodNowrooz1404
 {
     internal class Program
     {
