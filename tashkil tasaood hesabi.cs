@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace تشکیل_تصاعد_حسابی
+namespace TashlilTasaodiHesabi
 {
     internal class Program
     {
