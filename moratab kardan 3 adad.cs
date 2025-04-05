@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace مرتب_کردن_سه_عدد
+namespace MoratabKardan3Adad
 {
     internal class Program
     {
