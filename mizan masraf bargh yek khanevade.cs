@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace میزان_مصرف_برق_یک_خانواده
+namespace MizanMasrafBarghYekKHanevadeh
 {
     internal class Program
     {
