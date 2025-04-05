@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace حاصل_طبق_کاراکتر_در_یافتی
+namespace haselTebghKarakterDaryafty
 {
     internal class Program
     {
