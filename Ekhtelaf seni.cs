@@ -4,26 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace اختلاف_سنی
+namespace Ekhtelaf seni
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int y1, m1, d1, y2, m2, d2, r, r1, r2, r3;
-            Console.WriteLine("ple enter friest year birth : ");
-            y1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("ple enter friest year birth : ");
-            m1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("ple enter friest year birth : ");
-            d1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("ple enter friest year birth : ");
-            y2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("ple enter friest year birth : ");
-            m2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("ple enter friest year birth : ");
-            d2 = int.Parse(Console.ReadLine());
-            if (m1 <= 6)
+        int y1, m1, d1, y2, m2, d2, r, r1, r2, r3;
+        Console.WriteLine("ple enter friest year birth : ");
+        y1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("ple enter friest year birth : ");
+        m1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("ple enter friest year birth : ");
+        d1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("ple enter friest year birth : ");
+        y2 = int.Parse(Console.ReadLine());
+        Console.WriteLine("ple enter friest year birth : ");
+        m2 = int.Parse(Console.ReadLine());
+        Console.WriteLine("ple enter friest year birth : ");
+        d2 = int.Parse(Console.ReadLine());
+        if (m1 <= 6)
             {
                 r1 = 365 - (m1 - 1) * 31 + d1;
             }
