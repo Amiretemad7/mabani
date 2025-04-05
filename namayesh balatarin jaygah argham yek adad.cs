@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace نمایش_بالا_ترین_جایگاه__ارقام__یک_عدد
+namespace NamayeshBalatarinJaygahArghaYekAdad
 {
     internal class Program
     {
